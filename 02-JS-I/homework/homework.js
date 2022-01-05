@@ -4,15 +4,16 @@
 const nuevaString = 'Hello';
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = 2;
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = feliz = true;
+
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
 
-// Resuelve el siguiente problema matemático:
+// Resuelve el siguiente problema matemático:S
 const nuevaMultiplicacion = 10 * null === 40 ;
 
 // Resuelve el siguiente problema matemático:
